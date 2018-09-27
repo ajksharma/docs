@@ -41,10 +41,15 @@
 	},
 	"expanded_folders":
 	[
-		"/C/Users/ajay/Documents/Ajay-Git/docs"
+		"/C/Users/ajay/Documents/Ajay-Git/docs",
+		"/C/Users/ajay/Documents/Ajay-Git/docs/Office"
 	],
 	"file_history":
 	[
+		"/C/Users/ajay/Documents/Ajay-Git/docs/IDEA.sublime-project",
+		"/C/Users/ajay/Documents/Ajay-Git/Office/README.MD",
+		"/C/Users/ajay/AppData/Roaming/Sublime Merge/Packages/User/Commit Message.sublime-settings",
+		"/C/Users/ajay/AppData/Roaming/Sublime Merge/Packages/User/Preferences.sublime-settings",
 		"/C/Users/ajay/Documents/Links",
 		"/C/Users/ajay/Documents/IDEA.sublime-project",
 		"/C/Users/ajay/Documents/Using Atlassian Tools to manage common workflows",
@@ -166,7 +171,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 379.0,
+	"side_bar_width": 292.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
