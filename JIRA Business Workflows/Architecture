@@ -1,0 +1,19 @@
+Architecture
+-------------
+
+ORM is necessary if we want to allow plugin authors storage.
+
+What are we trying to make?
+
+An issue tracker or a BPM tool.
+
+I want to do regular coding everyday for 1 hr atleast.
+
+Rust
+Diesel
+Postgres (Write DB, replicated to ES)
+ElasticSearch (for Views/search/filters)
+Actixrs
+
+
+Design the application as a container in which all features run as a plugins aka Redmine?

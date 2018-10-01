@@ -1,0 +1,56 @@
+JIRA Primitives
+-----------------
+
+1. 
+
+2. 
+
+3. 
+
+
+
+
+Extending JIRA 
+---------------
+
+1. Plugins
+
+
+
+
+
+Essential Plugins
+-------------------
+
+
+
+Custom Dashboards
+---------------
+Which shows data from all tools
+
+Notifications
+-------------
+
+An effective business Workflow Management System will send notifications via email or push notifications on your mobile to remind you of upcoming approvals. Users should also be able to customize the kind of notifications they receive.	
+
+Parallel Branches
+-----------------
+
+All workflows are sequential, but some are special. Some sequential steps can happen at the same time. Take a travel request. It has a very predictable path, but what if it is for international travel? You may need a separate track that handles passports and other details of the upcoming trip.
+
+Role-Based Access Control
+--------------------------
+Many workflows contain sensitive information that is not intended to be shared with everyone in the process. Every Workflow Management System should allow you to customize what each user can see and edit. Making a quick change to this part of the workflow should not break it or affect historical requests.
+
+
+Operations Manual
+------------------
+
+https://tallyfy.com/operations-manual/
+
+Workflow Management System
+---------------------------
+
+https://tallyfy.com/workflow-management-system/
+https://tallyfy.com/guides/workflow-software/
+https://tallyfy.com/workflow-examples/
